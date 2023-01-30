@@ -1,0 +1,5 @@
+.env
+raport.pdf
+__pycache__
+sql_app.db
+.dcignore
